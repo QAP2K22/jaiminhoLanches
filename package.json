@@ -1,0 +1,28 @@
+{
+  "name": "qalanches",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.13.6",
+    "axios": "^1.4.0",
+    "firebase": "^9.23.0",
+    "next": "13.4.5",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.8.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.45.0",
+    "react-hook-form-mui": "^6.3.1",
+    "react-virtuoso": "^4.3.11",
+    "remask": "^1.2.2",
+    "uuid": "^9.0.0"
+  }
+}
